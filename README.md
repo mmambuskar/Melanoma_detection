@@ -26,10 +26,10 @@
 
 
 ## Technologies Used
-- pandas - version 1.0
-- matplotlib - version 2.0
-- numpy - version 3.0
-- TensorFlow - 
+- pandas - version '1.4.4'
+- matplotlib - version '3.5.2'
+- numpy - version '1.26.3'
+- TensorFlow - version '2.15.0'
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
